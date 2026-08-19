@@ -1,4 +1,4 @@
-- **Tic tac toe**
+ **Tic tac toe**
 
 This is a Python project I made while learning Python.
 
